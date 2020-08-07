@@ -46,5 +46,12 @@ body {
 }
 
 .col-3 p {
-  column-count: 
+  column-count: 1;
+}
+
+.col-1 {
+  width: 100%;
+  margin-left: 0;
+  float: 
+}
 }
