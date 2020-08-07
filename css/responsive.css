@@ -39,7 +39,6 @@ body {
 
 @media only screen and (max-width: 750px) {
   
-}
 #navbar nav a.selected {
   font-size: 0.9em;
   
@@ -60,5 +59,18 @@ body {
   margin-left: 0;
   float: none;
 }
+
+.col-3 {
+  width: 100%;
+  margin-left: 0;
+  float: none;
+}
+
+.border-right { 
+  border: 0;
+}
+
+#details div {
+  height: auto;
 }
 }
