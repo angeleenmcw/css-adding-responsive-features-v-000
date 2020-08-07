@@ -23,3 +23,8 @@
 .col-3 p {
   column-count: 2;
 }
+
+.navbar nav a.selected {
+  font-size: 0.9em;
+  
+}
